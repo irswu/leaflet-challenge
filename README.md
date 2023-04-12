@@ -6,7 +6,9 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 
 Part 1: Create the Earthquake Visualization - find in folder Leaflet-Part-1
+
 Part 2: Gather and Plot More Data (Optional with no extra points earning) - find in folder Leaflet-Part-2
+
 
 
 Reference:
